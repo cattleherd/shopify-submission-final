@@ -1,0 +1,4 @@
+#include "Version.xcconfig"
+#include "BuildSettings.xcconfig"
+PRODUCT_BUNDLE_IDENTIFIER = ${BUNDLE_IDENTIFIER}.Sticker-Pack-Extension
+#include? "Generated.xcconfig"

@@ -1,0 +1,40 @@
+{
+  "name": "radwan-hackathon-final",
+  "private": true,
+  "version": "0.0.1",
+  "description": "A Shop Mini with WebView and Vite",
+  "main": "index.tsx",
+  "scripts": {
+    "start": "shop-minis dev"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.122.0",
+    "@react-three/fiber": "^8.18.0",
+    "@react-three/postprocessing": "^2.19.1",
+    "@react-three/rapier": "^1.5.0",
+    "@shopify/shop-minis-react": "latest",
+    "@tweenjs/tween.js": "^25.0.0",
+    "framer-motion": "^12.19.1",
+    "postprocessing": "^6.37.4",
+    "react-tsparticles": "^2.12.2",
+    "three": "^0.177.0",
+    "tsparticles-slim": "^2.12.0"
+  },
+  "devDependencies": {
+    "@shopify/shop-minis-cli": "latest-web",
+    "@tailwindcss/vite": "^4.1.10",
+    "@types/lodash": "^4.17.19",
+    "@types/react": "^18.3.23",
+    "@types/react-dom": "^18.3.7",
+    "@vitejs/plugin-react": "^4.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^4.1.8",
+    "typescript": "^5.8.3",
+    "vite": "^5.2.10"
+  },
+  "resolutions": {
+    "@apollo/federation": "0.38.1",
+    "graphql": "15.8.0"
+  }
+}
