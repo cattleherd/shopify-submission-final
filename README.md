@@ -8,7 +8,7 @@ Generate a photorealistic “wrapped” look for your favourite Shopify item, po
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/cattleherd/shopify-wrapped.git
+git clone https://github.com/cattleherd/shopify-submission-final.git
 
 # 2. Install dependencies
 npm install      # or pnpm / yarn
